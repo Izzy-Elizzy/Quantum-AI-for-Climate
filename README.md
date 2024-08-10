@@ -52,8 +52,9 @@ Team Member 4:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+The included Jupyter notebook presents a proof-of-concept for a hybrid approach to simulating materials capable of selective diffusion via Quantum Sieving for Hydrogen Isotopes. It serves as the initial step in a pipeline that leverages classical methods to streamline subsequent quantum computer simulations.
+The classical pre-screening demonstrated here aims to efficiently identify promising candidates, reducing the computational load on more resource-intensive quantum simulations. This approach highlights the potential synergy between classical and quantum computing in materials science research.
+
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
