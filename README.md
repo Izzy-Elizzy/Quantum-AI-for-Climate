@@ -57,7 +57,7 @@ The classical pre-screening demonstrated here aims to efficiently identify promi
 
 
 ### Project Presentation Deck:
-[a relative link](Quantum-AI-for-Climate/Womanium Quantum+AI 2024 Project - Team FLUX.pdf)
+(Womanium Quantum+AI 2024 Project - Team FLUX.pdf)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
